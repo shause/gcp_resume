@@ -1,0 +1,34 @@
+{
+    "basics": {
+      "name": "Sara Hause",
+      "label": "Security Associate",
+      "email": "sara.hause12@gmail.com",
+      "url": "https://www.linkedin.com/in/sara-hause-7824b3205/",
+      "summary": "GCP Build and Deploy Serverless Website to Host My Resume",
+      "location": {
+        "city": "Atlanta",
+        "countryCode": "US",
+        "region": "Georgia"
+      }
+    },
+    "work": [{
+      "name": "Equifax",
+      "position": "Rotational Security Associate",
+      "startDate": "June 2023",
+      "endDate": "Present",
+      "skills": "Python, Terraform, GCP, GitHub, Jenkins, Jira, OSINT, Confluence, ServiceNow, Wiz"
+    }],
+    "education": [{
+      "institution": "Georgia Southern University",
+      "area": "Information Technology",
+      "studyType": "Bachelor",
+      "startDate": "August 2019",
+      "endDate": "May 2023"
+    }],
+    "certificates": [{
+      "name": "CompTIA Security+",
+      "date": "Decemeber 2023",
+      "issuer": "CompTIA",
+      "url": "https://certificate.com"
+    }]
+  }
