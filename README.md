@@ -18,3 +18,6 @@ Cloud Resources: Firestore, Cloud Run, Cloud Build, Artifact Registry
 
 Other: GitHub Actions, Terraform
 
+
+![image](https://github.com/user-attachments/assets/be5f56e2-7aa7-4b59-bedb-cd19c253fed3)
+
