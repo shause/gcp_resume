@@ -1,7 +1,7 @@
 # gcp_resume
 
 **Objective:**
-Build a Resume using GCP, GitHub, Terraform, Programming Languages
+Build a Resume using GCP, GitHub, Terraform, Programming Languages. Build and deploy a serverless API using Google Cloud Functions and Firestore, integrated with GitHub Actions.
 
 **Frontend**
 
